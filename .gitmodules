@@ -1,0 +1,12 @@
+[submodule "ames"]
+	path = ames
+	url = https://github.com/FabioAyresInsper/ames.git
+[submodule "california"]
+	path = california
+	url = https://github.com/FabioAyresInsper/california.git
+[submodule "diabetes"]
+	path = diabetes
+	url = https://github.com/FabioAyresInsper/diabetes.git
+[submodule "autompg"]
+	path = autompg
+	url = https://github.com/FabioAyresInsper/autompg.git
